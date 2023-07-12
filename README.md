@@ -1,4 +1,4 @@
-#Hamming Code Error Detection
+# Hamming Code Error Detection
 
 This repository contains a program that demonstrates error detection using Hamming code. The program is written in C language.
 Description
