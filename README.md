@@ -1,7 +1,8 @@
 # Hamming Code Error Detection
 
 This repository contains a program that demonstrates error detection using Hamming code. The program is written in C language.
-Description
+
+# Description
 
 Hamming code is an error detection and correction technique used in digital communication. It adds additional parity bits to a block of data to detect and correct errors that may occur during transmission.
 
